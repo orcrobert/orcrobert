@@ -63,7 +63,7 @@
 
 ###
 
-<img align="right" height="180" src="https://media1.tenor.com/m/lcrQBLljnNcAAAAd/dark-souls-knight.gif"  />
+<img align="right" height="140" src="https://media1.tenor.com/m/lcrQBLljnNcAAAAd/dark-souls-knight.gif"  />
 
 ###
 
