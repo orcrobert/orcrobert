@@ -66,11 +66,11 @@
 <table width="100%" align="center" style="border-collapse: collapse; border: none;">
   <tr>
     <td style="width: 80%; border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=orcrobert&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=true" height="125" alt="stats graph" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=orcrobert&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=true" height="135" alt="languages graph" />
+      <img src="https://github-readme-stats.vercel.app/api?username=orcrobert&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=true" height="115" alt="stats graph" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=orcrobert&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=true" height="115" alt="languages graph" />
     </td>
     <td style="width: 20%; border: none; text-align: right;">
-      <img src="https://media1.tenor.com/m/lcrQBLljnNcAAAAd/dark-souls-knight.gif" height="125" />
+      <img src="https://media1.tenor.com/m/lcrQBLljnNcAAAAd/dark-souls-knight.gif" height="115" />
     </td>
   </tr>
 </table>
