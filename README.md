@@ -75,4 +75,4 @@
 
 ###
 
-![](https://komarev.com/ghpvc/?username=orcrobert)
+![](https://komarev.com/ghpvc/?username=orcrobert&abbreviated=true&color=red)
